@@ -6,4 +6,4 @@
 - If you are interested in the topic, have data that would be useful, or know anyone who is researching this, please contact me here:
 - 📫 avaccrofford@gmail.com ; (817) 851-3378
 
-- Any information or ideas are welcome! 
+- All information and ideas are welcome! 
