@@ -1,5 +1,5 @@
 - 🌱 Hi, I’m @Croac-24 (but you can call me Ava)
-- I am a student researching wifi (broadband) Access and Affordability in Memphis, Tennesee. 
+- I am a student researching Broadband Access and Affordability in Memphis, Tennesee. 
 - Internet Service Providers (ISPs) have very little regulation. 
 - Studies have shown that ISPs disproportionately under-serve people racialized as black and brown and low-income residents.
 - Currently, I'm collecting data on public utilities (MLGW), wifi, and transportation
